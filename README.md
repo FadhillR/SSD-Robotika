@@ -1,8 +1,8 @@
 
 # Object Detection - SSD
 
-## Nama : Subairi
-## NPM : 21081010019
+## Nama : Ahmad Fadhil Rizqullah
+## NPM : 21081010098
 ## Kontribusi : Membantu untuk validasi model
 
 
